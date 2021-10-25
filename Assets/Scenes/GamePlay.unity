@@ -169,8 +169,8 @@ MonoBehaviour:
   hexInterSectionPoint: {fileID: 8815202520586374394, guid: 3b2557146bac6f84a92a0660cc69acc2,
     type: 3}
   interSectionPointParent: {fileID: 1522807897}
-  gridWidth: 5
-  gridHeight: 6
+  gridWidth: 4
+  gridHeight: 5
   colors:
   - {r: 1, g: 0, b: 0, a: 1}
   - {r: 0.9528302, g: 0.87738246, b: 0, a: 1}
